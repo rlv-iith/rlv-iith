@@ -1,6 +1,6 @@
 <div align="center">
 
-# LALITH VISHNU RAMUNI
+# LALITH VISHNU R
 
 **AI Systems Engineer · IIT Hyderabad · Stremly**
 
