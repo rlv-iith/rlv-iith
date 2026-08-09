@@ -14,7 +14,7 @@
 
 ### 🧠 About
 
-B.Tech Industrial Chemistry @ **IIT Hyderabad** (2023–27 · CGPA 7.99)  
+B.Tech Industrial Chemistry @ **IIT Hyderabad** (2023–27 · CGPA 8.05)  
 Currently **AI Systems Intern @ Stremly**, Dublin — building MCP server infrastructure & LLM agent tooling.  
 Research Intern @ **IISc Bangalore** · Under-review paper on Micro-supercapacitors (ElectroChem).
 
