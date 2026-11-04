@@ -39,7 +39,7 @@ Research Intern @ **IISc Bangalore** · Under-review paper on Micro-supercapacit
 |---|---|---|
 | **[Portfolio AI Brain](https://ai-brain-be3s.onrender.com/health)** | Multi-LLM RAG backend powering my portfolio chat | FastAPI · RAG · Multi-LLM |
 | **Credit Risk & Explainable AI** | National Finalist — glass-box credit decisions with SHAP | XGBoost · SHAP · Docker |
-| **3D Synthetic Data Engine** | Cash Prize Winner — solved data scarcity via Blender-based synthetic generation, 11× faster labeling | Blender · Python · LiDAR |
+| **3D computer vision Synthetic Data and segmentation Engine** | Cash Prize Winner — solved data scarcity via Blender-based synthetic generation, 11× faster labeling | Blender · Python · LiDAR |
 | **AI Textbook Tutor** | IBM Capstone — hallucination-free RAG tutor over PDF textbooks | LangChain · OpenAI · Streamlit |
 | **Lab Automation (AxiDraw)** | Hacked an AxiDraw machine for precise chemical deposition, +30% lab throughput | Python · G-Code · Hardware |
 
