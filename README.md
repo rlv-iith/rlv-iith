@@ -37,6 +37,7 @@ Research Intern @ **IISc Bangalore** · Under-review paper on Micro-supercapacit
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[MASooda Live Airspace](https://masooda.onrender.com/)** · [code](https://github.com/rlv-iith/MASooda) | Multi-agent air traffic management for urban drone fleets (6-member IITH team). **My part:** ADMM distributed deconfliction, and the live web demo — 500-drone streaming simulation, DTC operator console, battery/BMS health model, 10 scripted scenarios | Python · NumPy · ADMM · JS Canvas |
 | **[Portfolio AI Brain](https://ai-brain-be3s.onrender.com/health)** | Multi-LLM RAG backend powering my portfolio chat | FastAPI · RAG · Multi-LLM |
 | **Credit Risk & Explainable AI** | National Finalist — glass-box credit decisions with SHAP | XGBoost · SHAP · Docker |
 | **3D computer vision Synthetic Data and segmentation Engine** | Cash Prize Winner — solved data scarcity via Blender-based synthetic generation, 11× faster labeling | Blender · Python · LiDAR |
